@@ -10,7 +10,7 @@
 
 🛠️ My technical skills include Python, R, SPSS, Tableau, and expertise in statistical analysis, data cleaning, and creating compelling visualisations.
 
-📫 How to reach me: shristi02adhikari@gmail.com | Your LinkedIn Profile: https://www.linkedin.com/in/shristi-adhikari-b233021b8/
+📫 How to reach me: shristi02adhikari@gmail.com | LinkedIn Profile: https://www.linkedin.com/in/shristi-adhikari-b233021b8/
 
 😄 Pronouns: she/her
 
