@@ -14,7 +14,7 @@
 
 😄 Pronouns: she/her
 
-⚡ Fun fact: Outside of coding and analysis, I love sketching reading and exploring the world on foot.
+⚡ Fun fact: Outside of coding and analysis, I love Reading and exploring the world on foot.
 <!---
 shrii-adhikari/shrii-adhikari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
